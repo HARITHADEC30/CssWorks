@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+.text-success{
+    color: green;
+}
+
+.text-kill{
+    color:white;
+}
+
+.text-alighn{
+    text-align: center;
+}

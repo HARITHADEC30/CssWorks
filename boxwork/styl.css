@@ -1,0 +1,17 @@
+.border{
+    border: 2px solid black;
+}
+
+.parent{
+    background-color: green;
+    height: 500px;
+    width: 400px;
+}
+
+.child{
+    background-color: purple;
+    height: 300px;
+    width: 200px;
+}
+ /* absolute==>px  fixed
+ relative ==>% depend diffrent element */
